@@ -5,6 +5,7 @@ module.exports = function(eleventyConfig) {
 
   // Copy styles folder to output
   eleventyConfig.addPassthroughCopy('_styles');
+  eleventyConfig.addPassthroughCopy('404.html');
   // Watch styles folder for changes
   eleventyConfig.addWatchTarget("_styles");
 
