@@ -1,22 +1,27 @@
 
+Basic website that lists all the discoveries on the [Late Night Linux podcast](https://latenightlinux.com/)
+
+## Installation
+
+`npm install` from the root of this repo 
+
+The built website is in the `_site` folder
+
+to run a local server `npm run serve`  
+to build the site `npm run build`
+
 ## Get data
 
-Use the other repo
+I gathered the data using [ghomasHudson's python script](https://github.com/ghomasHudson/latenightlinux-discoveries)
 
-1. change single quotes to double
+Then I:
+
+1. changed single quotes to double
 2. put it all in an array 
 
-## Get episode list from discovery list
+## Create episode list from discovery list
 
 ```
-cat discoveries.json | jq 'group_by(.episode.name) | map(.[0].episode)'
+cd _data
+cat discoveries.json | jq 'group_by(.episode.name) | map(.[0].episode) > episodes.json'
 ```
-
-create a `number` key for each episode
-
-https://unix.stackexchange.com/questions/628855/add-key-value-to-json-object
-
-`jq --argjson newval "$( jo new_key="$somevalue" )" '.array[] += $newval' <<<"$json"`
-
-
-https://unix.stackexchange.com/questions/680004/use-jq-to-update-property-of-object-that-contains-other-property-with-specific-v
