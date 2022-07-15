@@ -1,0 +1,9 @@
+
+{% macro item(discovery) %}
+    <section>
+        <a href="{{ discovery.url }}"><h2>{{discovery.name}}</h2></a>
+        <a href="{{ discovery.url }}">{{discovery.url}}</a>
+        <p>{{discovery.description}}</p>
+        <a href="/ep/{{discovery.episode.name | ep_num}}">Episode {{discovery.episode.name | ep_num}}</a>
+    </section>
+{% endmacro %}
