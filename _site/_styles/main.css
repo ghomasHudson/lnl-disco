@@ -1,8 +1,8 @@
 :root {
     --background: #212121;
     --foreground: #eee;
-    --link: #c971ff;
-    --visited: #71ffaf;
+    --link:#71ffaf;
+    --visited: #c971ff;
 }
 
 html, body {
@@ -21,9 +21,11 @@ a {
 a:visited {
     color: var(--visited);
 }
+
 h1 {
     margin-bottom: 5rem;
 }
+
 section {
     max-width: 40rem;
     margin: 0 auto 3rem auto;

@@ -21,6 +21,8 @@ Then I:
 
 ## Create episode list from discovery list
 
+This is used to build episode pages
+
 ```
 cd _data
 cat discoveries.json | jq 'group_by(.episode.name) | map(.[0].episode) > episodes.json'
