@@ -1,4 +1,31 @@
+:root {
+    --background: #212121;
+    --foreground: #eee;
+    --link: #c971ff;
+    --visited: #71ffaf;
+}
 
+html, body {
+    background-color: var(--background);
+    color: var(--foreground);
+}
+
+body {
+    text-align: center;
+}
+
+a {
+    color: var(--link);
+}
+
+a:visited {
+    color: var(--visited);
+}
+h1 {
+    margin-bottom: 5rem;
+}
 section {
-    margin-bottom: 3rem;
+    max-width: 40rem;
+    margin: 0 auto 3rem auto;
+    text-align: left;
 }
