@@ -4,6 +4,8 @@ layout: "layouts/main.njk"
 
 {% import "components/item.njk" as item %}
 
+<p>{{ discoveries | length }} discoveries in {{ episodes | length }} episodes</p>
+
 {% for discovery in discoveries | alpha_sort %}
     {{ item.item(discovery) }}
 {% endfor %}
