@@ -1,0 +1,18 @@
+---
+pagination:
+    data: episodes
+    size: 1
+    alias: episode
+permalink: "ep/{{ episode.name | ep_num }}/"
+layout: "layouts/main.njk"
+---
+
+{% import "components/item.njk" as item %}
+
+<h1>Episode {{ episode.name | ep_num}}</h1>
+
+{% for discovery in discoveries %}
+    {% if discovery.episode.name == episode.name %}
+        {{ item.item(discovery)}}
+    {% endif %}
+{% endfor %}

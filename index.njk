@@ -1,0 +1,9 @@
+---
+layout: "layouts/main.njk"
+---
+
+{% import "components/item.njk" as item %}
+
+{% for discovery in discoveries | alpha_sort %}
+    {{ item.item(discovery) }}
+{% endfor %}
