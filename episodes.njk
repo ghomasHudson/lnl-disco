@@ -9,7 +9,11 @@ layout: "layouts/main.njk"
 
 {% import "components/item.njk" as item %}
 
-<h1>Episode {{ episode.name | ep_num}}</h1>
+<div class="episode_header">
+    <a href="/">back</a>
+    <h2>Episode {{ episode.name | ep_num }}</h2>
+    <a href="{{episode.url}}">🔊 Episode page</a>
+</div>
 
 {% for discovery in discoveries %}
     {% if discovery.episode.name == episode.name %}

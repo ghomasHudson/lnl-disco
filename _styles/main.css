@@ -15,7 +15,7 @@ body {
 }
 
 main {
-    margin-top: 10rem;
+    margin-top: 5rem;
 }
 
 a {
@@ -26,7 +26,9 @@ a:visited {
     color: var(--visited);
 }
 
-
+.episode_header {
+    margin-bottom: 5rem;
+}
 
 section {
     max-width: 40rem;
