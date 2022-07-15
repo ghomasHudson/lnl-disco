@@ -1,6 +1,8 @@
 
 Basic website that lists all the discoveries on the [Late Night Linux podcast](https://latenightlinux.com/)
 
+🔴 Live: https://lnl-disco.website-eu-central-1.linodeobjects.com/
+
 ## Installation
 
 `npm install` from the root of this repo 
