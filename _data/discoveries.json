@@ -2,7 +2,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 185",
-            "url": "https://latenightlinux.com/late-night-linux-episode-185/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-185/",
+            "date": "Mon, 11 Jul 2022"
         },
         "name": "viddy",
         "url": "https://github.com/sachaos/viddy/blob/master/README.md",
@@ -11,7 +12,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 185",
-            "url": "https://latenightlinux.com/late-night-linux-episode-185/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-185/",
+            "date": "Mon, 11 Jul 2022"
         },
         "name": "Cheerlights",
         "url": "https://cheerlights.com/",
@@ -20,7 +22,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 185",
-            "url": "https://latenightlinux.com/late-night-linux-episode-185/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-185/",
+            "date": "Mon, 11 Jul 2022"
         },
         "name": "cheerlights-hid",
         "url": "https://github.com/ralight/cheerlights-hid",
@@ -29,7 +32,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 185",
-            "url": "https://latenightlinux.com/late-night-linux-episode-185/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-185/",
+            "date": "Mon, 11 Jul 2022"
         },
         "name": "Hacking a Netgear router to be a ‘mesh’ satellite",
         "url": "https://github.com/bkerler/netgear_telnet",
@@ -38,7 +42,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 185",
-            "url": "https://latenightlinux.com/late-night-linux-episode-185/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-185/",
+            "date": "Mon, 11 Jul 2022"
         },
         "name": "Vita3K",
         "url": "https://github.com/Vita3K/Vita3K",
@@ -47,16 +52,18 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 185",
-            "url": "https://latenightlinux.com/late-night-linux-episode-185/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-185/",
+            "date": "Mon, 11 Jul 2022"
         },
         "name": "Rufus 3.19 adds bypass for mandatory Windows 11 22H2 Microsoft Account requirement",
         "url": "https://www.neowin.net/news/rufus-319-adds-bypass-for-mandatory-windows-11-22h2-microsoft-account-requirement/",
-        "description": "31 minutes ago"
+        "description": "18 hours ago"
     },
     {
         "episode": {
             "name": "Late Night Linux – Episode 185",
-            "url": "https://latenightlinux.com/late-night-linux-episode-185/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-185/",
+            "date": "Mon, 11 Jul 2022"
         },
         "name": "Raspberry Pi Restores Guitar Amp, Complete With Effects",
         "url": "https://www.tomshardware.com/news/raspberry-pi-guitar-amp",
@@ -65,7 +72,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 183",
-            "url": "https://latenightlinux.com/late-night-linux-episode-183/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-183/",
+            "date": "Mon, 27 Jun 2022"
         },
         "name": "libratbag",
         "url": "https://github.com/libratbag/libratbag",
@@ -74,7 +82,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 183",
-            "url": "https://latenightlinux.com/late-night-linux-episode-183/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-183/",
+            "date": "Mon, 27 Jun 2022"
         },
         "name": "piper",
         "url": "https://github.com/libratbag/piper/",
@@ -83,7 +92,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 183",
-            "url": "https://latenightlinux.com/late-night-linux-episode-183/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-183/",
+            "date": "Mon, 27 Jun 2022"
         },
         "name": "WeeWX",
         "url": "https://www.weewx.com/",
@@ -92,7 +102,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 183",
-            "url": "https://latenightlinux.com/late-night-linux-episode-183/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-183/",
+            "date": "Mon, 27 Jun 2022"
         },
         "name": "Device/DevMode Manager for webOS TV",
         "url": "https://github.com/webosbrew/dev-manager-desktop",
@@ -101,7 +112,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 183",
-            "url": "https://latenightlinux.com/late-night-linux-episode-183/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-183/",
+            "date": "Mon, 27 Jun 2022"
         },
         "name": "LMN 3: An Open-Source DAW-in-a-Box",
         "url": "https://youtu.be/h5UmPTttN1s",
@@ -110,7 +122,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 183",
-            "url": "https://latenightlinux.com/late-night-linux-episode-183/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-183/",
+            "date": "Mon, 27 Jun 2022"
         },
         "name": "Doom on coreboot",
         "url": "https://www.phoronix.com/scan.php?page=news_item&px=Coreboot-4.17",
@@ -119,7 +132,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 183",
-            "url": "https://latenightlinux.com/late-night-linux-episode-183/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-183/",
+            "date": "Mon, 27 Jun 2022"
         },
         "name": "on a Bluetooth dongle",
         "url": "https://next-hack.com/index.php/2021/11/13/porting-doom-to-an-nrf52840-based-usb-bluetooth-le-dongle/",
@@ -128,7 +142,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 183",
-            "url": "https://latenightlinux.com/late-night-linux-episode-183/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-183/",
+            "date": "Mon, 27 Jun 2022"
         },
         "name": "OBS",
         "url": "https://obsproject.com/",
@@ -137,7 +152,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 181",
-            "url": "https://latenightlinux.com/late-night-linux-episode-181/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-181/",
+            "date": "Mon, 13 Jun 2022"
         },
         "name": "Wazuh",
         "url": "https://wazuh.com/",
@@ -146,7 +162,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 181",
-            "url": "https://latenightlinux.com/late-night-linux-episode-181/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-181/",
+            "date": "Mon, 13 Jun 2022"
         },
         "name": "cheat",
         "url": "https://github.com/cheat/cheat",
@@ -155,7 +172,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 181",
-            "url": "https://latenightlinux.com/late-night-linux-episode-181/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-181/",
+            "date": "Mon, 13 Jun 2022"
         },
         "name": "Sigrok",
         "url": "https://sigrok.org/wiki/Main_Page",
@@ -164,7 +182,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 181",
-            "url": "https://latenightlinux.com/late-night-linux-episode-181/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-181/",
+            "date": "Mon, 13 Jun 2022"
         },
         "name": "here",
         "url": "https://bigdanzblog.wordpress.com/2022/05/23/cheap-logic-analyzer-examined/",
@@ -173,7 +192,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 181",
-            "url": "https://latenightlinux.com/late-night-linux-episode-181/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-181/",
+            "date": "Mon, 13 Jun 2022"
         },
         "name": "warpd",
         "url": "https://github.com/rvaiya/warpd",
@@ -182,7 +202,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 181",
-            "url": "https://latenightlinux.com/late-night-linux-episode-181/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-181/",
+            "date": "Mon, 13 Jun 2022"
         },
         "name": "archinstall",
         "url": "https://wiki.archlinux.org/title/archinstall",
@@ -191,7 +212,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 181",
-            "url": "https://latenightlinux.com/late-night-linux-episode-181/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-181/",
+            "date": "Mon, 13 Jun 2022"
         },
         "name": "Dwitter",
         "url": "https://www.dwitter.net/",
@@ -200,7 +222,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 181",
-            "url": "https://latenightlinux.com/late-night-linux-episode-181/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-181/",
+            "date": "Mon, 13 Jun 2022"
         },
         "name": "DALL·E mini",
         "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
@@ -209,7 +232,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 179",
-            "url": "https://latenightlinux.com/late-night-linux-episode-179/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-179/",
+            "date": "Mon, 30 May 2022"
         },
         "name": "RustDesk",
         "url": "https://rustdesk.com/",
@@ -218,16 +242,18 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 179",
-            "url": "https://latenightlinux.com/late-night-linux-episode-179/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-179/",
+            "date": "Mon, 30 May 2022"
         },
         "name": "Virtual Smart Home",
         "url": "https://flows.nodered.org/node/node-red-contrib-virtual-smart-home",
-        "description": "A Node-RED node that represents a \"virtual device\" which can be controlled via Alexa. Requires the virtual smart home skill to be enabled for your Amazon account."
+        "description": "A Node-RED node that represents a 'virtual device' which can be controlled via Alexa. Requires the virtual smart home skill to be enabled for your Amazon account."
     },
     {
         "episode": {
             "name": "Late Night Linux – Episode 179",
-            "url": "https://latenightlinux.com/late-night-linux-episode-179/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-179/",
+            "date": "Mon, 30 May 2022"
         },
         "name": "Jellyfin",
         "url": "https://jellyfin.org",
@@ -236,7 +262,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 179",
-            "url": "https://latenightlinux.com/late-night-linux-episode-179/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-179/",
+            "date": "Mon, 30 May 2022"
         },
         "name": "Thunderbird is very much alive",
         "url": "https://twitter.com/killyourfm/status/1524379752999665666",
@@ -245,7 +272,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 179",
-            "url": "https://latenightlinux.com/late-night-linux-episode-179/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-179/",
+            "date": "Mon, 30 May 2022"
         },
         "name": "it has an RSS reader",
         "url": "https://blog.thunderbird.net/2022/05/thunderbird-rss-feeds-guide-favorite-content-to-the-inbox/",
@@ -254,7 +282,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 177",
-            "url": "https://latenightlinux.com/late-night-linux-episode-177/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-177/",
+            "date": "Mon, 16 May 2022"
         },
         "name": "Surge XT synth",
         "url": "https://surge-synthesizer.github.io/",
@@ -263,7 +292,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 177",
-            "url": "https://latenightlinux.com/late-night-linux-episode-177/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-177/",
+            "date": "Mon, 16 May 2022"
         },
         "name": "The Unity desktop is still alive",
         "url": "https://unity.ubuntuunity.org/blog/unity-7.6/",
@@ -272,7 +302,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 177",
-            "url": "https://latenightlinux.com/late-night-linux-episode-177/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-177/",
+            "date": "Mon, 16 May 2022"
         },
         "name": "as is Trinity",
         "url": "https://www.theregister.com/2022/05/04/unity_trinity_desktops/",
@@ -281,7 +312,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 177",
-            "url": "https://latenightlinux.com/late-night-linux-episode-177/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-177/",
+            "date": "Mon, 16 May 2022"
         },
         "name": "10 hours of a hairdryer noise",
         "url": "https://www.youtube.com/watch?v=eJT8xuI_5PY",
@@ -290,7 +322,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 177",
-            "url": "https://latenightlinux.com/late-night-linux-episode-177/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-177/",
+            "date": "Mon, 16 May 2022"
         },
         "name": "Star Trek TNG bridge noise",
         "url": "https://ubuntuincident.wordpress.com/2012/01/06/playing-star-trek-background-noise-with-a-linux-command/",
@@ -299,7 +332,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 176",
-            "url": "https://latenightlinux.com/late-night-linux-episode-176/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-176/",
+            "date": "Tue, 10 May 2022"
         },
         "name": "pz",
         "url": "https://github.com/CZ-NIC/pz",
@@ -308,7 +342,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 176",
-            "url": "https://latenightlinux.com/late-night-linux-episode-176/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-176/",
+            "date": "Tue, 10 May 2022"
         },
         "name": "dashy",
         "url": "https://dashy.to/",
@@ -317,7 +352,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 176",
-            "url": "https://latenightlinux.com/late-night-linux-episode-176/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-176/",
+            "date": "Tue, 10 May 2022"
         },
         "name": "Charge your laptop off a big external battery over USB-C",
         "url": "https://twitter.com/zorinaq/status/1176625574762053632",
@@ -326,7 +362,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 175",
-            "url": "https://latenightlinux.com/late-night-linux-episode-175/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-175/",
+            "date": "Mon, 02 May 2022"
         },
         "name": "Tuya Convert",
         "url": "https://github.com/ct-Open-Source/tuya-convert",
@@ -335,7 +372,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 175",
-            "url": "https://latenightlinux.com/late-night-linux-episode-175/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-175/",
+            "date": "Mon, 02 May 2022"
         },
         "name": "entr",
         "url": "https://github.com/eradman/entr",
@@ -344,7 +382,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 175",
-            "url": "https://latenightlinux.com/late-night-linux-episode-175/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-175/",
+            "date": "Mon, 02 May 2022"
         },
         "name": "Insteon Abruptly Shuts Down, Users Left Smart-Home-Less",
         "url": "https://hackaday.com/2022/04/25/insteon-abruptly-shuts-down-users-left-smart-home-less/",
@@ -353,7 +392,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 175",
-            "url": "https://latenightlinux.com/late-night-linux-episode-175/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-175/",
+            "date": "Mon, 02 May 2022"
         },
         "name": "Parallel Disk Usage",
         "url": "https://github.com/KSXGitHub/parallel-disk-usage",
@@ -362,7 +402,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 175",
-            "url": "https://latenightlinux.com/late-night-linux-episode-175/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-175/",
+            "date": "Mon, 02 May 2022"
         },
         "name": "psst",
         "url": "https://github.com/jpochyla/psst",
@@ -371,7 +412,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 175",
-            "url": "https://latenightlinux.com/late-night-linux-episode-175/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-175/",
+            "date": "Mon, 02 May 2022"
         },
         "name": "Touristic Guide — DebConf 22",
         "url": "https://debconf22.debconf.org/news/2022-04-14-touristic-guide/",
@@ -380,7 +422,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 175",
-            "url": "https://latenightlinux.com/late-night-linux-episode-175/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-175/",
+            "date": "Mon, 02 May 2022"
         },
         "name": "adblock · PyPI",
         "url": "https://pypi.org/project/adblock/",
@@ -389,7 +432,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 174",
-            "url": "https://latenightlinux.com/late-night-linux-episode-174/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-174/",
+            "date": "Tue, 26 Apr 2022"
         },
         "name": "LNL Matrix",
         "url": "https://matrix.to/#/%23LateNightLinux:matrix.org",
@@ -398,7 +442,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 174",
-            "url": "https://latenightlinux.com/late-night-linux-episode-174/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-174/",
+            "date": "Tue, 26 Apr 2022"
         },
         "name": "Element",
         "url": "https://element.io/",
@@ -407,7 +452,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 174",
-            "url": "https://latenightlinux.com/late-night-linux-episode-174/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-174/",
+            "date": "Tue, 26 Apr 2022"
         },
         "name": "Android",
         "url": "https://play.google.com/store/apps/details?id=org.joinmastodon.android",
@@ -416,7 +462,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 174",
-            "url": "https://latenightlinux.com/late-night-linux-episode-174/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-174/",
+            "date": "Tue, 26 Apr 2022"
         },
         "name": "iOS",
         "url": "https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974",
@@ -425,7 +472,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 174",
-            "url": "https://latenightlinux.com/late-night-linux-episode-174/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-174/",
+            "date": "Tue, 26 Apr 2022"
         },
         "name": "Create Twitter RSS Feeds",
         "url": "https://rss.app/rss-feed/create-twitter-rss-feed",
@@ -434,7 +482,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 171",
-            "url": "https://latenightlinux.com/late-night-linux-episode-171/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-171/",
+            "date": "Mon, 04 Apr 2022"
         },
         "name": "Computer Networks from Scratch",
         "url": "https://www.networksfromscratch.com/",
@@ -443,7 +492,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 171",
-            "url": "https://latenightlinux.com/late-night-linux-episode-171/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-171/",
+            "date": "Mon, 04 Apr 2022"
         },
         "name": "Julia Evans",
         "url": "https://wizardzines.com/",
@@ -452,7 +502,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 171",
-            "url": "https://latenightlinux.com/late-night-linux-episode-171/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-171/",
+            "date": "Mon, 04 Apr 2022"
         },
         "name": "Telegraf",
         "url": "https://www.influxdata.com/time-series-platform/telegraf/",
@@ -461,7 +512,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 171",
-            "url": "https://latenightlinux.com/late-night-linux-episode-171/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-171/",
+            "date": "Mon, 04 Apr 2022"
         },
         "name": "FocusWriter",
         "url": "https://gottcode.org/focuswriter/",
@@ -470,7 +522,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 171",
-            "url": "https://latenightlinux.com/late-night-linux-episode-171/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-171/",
+            "date": "Mon, 04 Apr 2022"
         },
         "name": "PanWriter",
         "url": "https://panwriter.com",
@@ -479,7 +532,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 171",
-            "url": "https://latenightlinux.com/late-night-linux-episode-171/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-171/",
+            "date": "Mon, 04 Apr 2022"
         },
         "name": "Horcrux",
         "url": "https://github.com/jesseduffield/horcrux",
@@ -488,7 +542,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 171",
-            "url": "https://latenightlinux.com/late-night-linux-episode-171/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-171/",
+            "date": "Mon, 04 Apr 2022"
         },
         "name": "It takes a Mac to save a Mac",
         "url": "https://support.apple.com/en-gb/guide/apple-configurator-mac/apdd5f3c75ad/mac",
@@ -497,7 +552,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 171",
-            "url": "https://latenightlinux.com/late-night-linux-episode-171/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-171/",
+            "date": "Mon, 04 Apr 2022"
         },
         "name": "a FOSS alternative",
         "url": "https://github.com/libimobiledevice/idevicerestore",
@@ -506,7 +562,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 169",
-            "url": "https://latenightlinux.com/late-night-linux-episode-169/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-169/",
+            "date": "Mon, 21 Mar 2022"
         },
         "name": "aha",
         "url": "https://www.unix.com/man-page/linux/1/aha/",
@@ -515,7 +572,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 169",
-            "url": "https://latenightlinux.com/late-night-linux-episode-169/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-169/",
+            "date": "Mon, 21 Mar 2022"
         },
         "name": "blame Canada for computer translation",
         "url": "https://thewalrus.ca/how-canada-accidentally-helped-crack-computer-translation/",
@@ -524,7 +582,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 169",
-            "url": "https://latenightlinux.com/late-night-linux-episode-169/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-169/",
+            "date": "Mon, 21 Mar 2022"
         },
         "name": "Chirp",
         "url": "https://chirp.danplanet.com/projects/chirp/wiki/Running_Under_Linux",
@@ -533,7 +592,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 169",
-            "url": "https://latenightlinux.com/late-night-linux-episode-169/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-169/",
+            "date": "Mon, 21 Mar 2022"
         },
         "name": "vimwiki",
         "url": "https://github.com/vimwiki/vimwiki",
@@ -542,16 +602,18 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 169",
-            "url": "https://latenightlinux.com/late-night-linux-episode-169/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-169/",
+            "date": "Mon, 21 Mar 2022"
         },
         "name": "Open Collidoscope",
         "url": "https://code.soundsoftware.ac.uk/projects/opencollidoscope",
-        "description": "Collidoscope is an interactive, collaborative sound installation and musical instrument (granular synthesizer) that allows participants to seamlessly record, manipulate, explore and perform real-world sounds. It is designed for both amateurs and professional musicians."
+        "description": "💀 Dead link"
     },
     {
         "episode": {
             "name": "Late Night Linux – Episode 169",
-            "url": "https://latenightlinux.com/late-night-linux-episode-169/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-169/",
+            "date": "Mon, 21 Mar 2022"
         },
         "name": "video",
         "url": "https://www.youtube.com/watch?v=9XMfKYVu_fg",
@@ -560,7 +622,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 169",
-            "url": "https://latenightlinux.com/late-night-linux-episode-169/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-169/",
+            "date": "Mon, 21 Mar 2022"
         },
         "name": "Borderlands",
         "url": "https://github.com/Lyptik/Borderlands",
@@ -569,7 +632,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 167",
-            "url": "https://latenightlinux.com/late-night-linux-episode-167/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-167/",
+            "date": "Mon, 07 Mar 2022"
         },
         "name": "Pandas",
         "url": "https://pandas.pydata.org/",
@@ -578,7 +642,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 167",
-            "url": "https://latenightlinux.com/late-night-linux-episode-167/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-167/",
+            "date": "Mon, 07 Mar 2022"
         },
         "name": "10mins to pandas",
         "url": "https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html",
@@ -587,7 +652,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 167",
-            "url": "https://latenightlinux.com/late-night-linux-episode-167/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-167/",
+            "date": "Mon, 07 Mar 2022"
         },
         "name": "WLED",
         "url": "https://kno.wled.ge/",
@@ -596,7 +662,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 167",
-            "url": "https://latenightlinux.com/late-night-linux-episode-167/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-167/",
+            "date": "Mon, 07 Mar 2022"
         },
         "name": "XSuspender",
         "url": "https://kernc.github.io/xsuspender",
@@ -605,7 +672,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 167",
-            "url": "https://latenightlinux.com/late-night-linux-episode-167/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-167/",
+            "date": "Mon, 07 Mar 2022"
         },
         "name": "subnetcalc",
         "url": "https://www.uni-due.de/~be0001/subnetcalc/",
@@ -614,7 +682,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 167",
-            "url": "https://latenightlinux.com/late-night-linux-episode-167/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-167/",
+            "date": "Mon, 07 Mar 2022"
         },
         "name": "Quickemu",
         "url": "https://github.com/quickemu-project/quickemu",
@@ -623,7 +692,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 167",
-            "url": "https://latenightlinux.com/late-night-linux-episode-167/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-167/",
+            "date": "Mon, 07 Mar 2022"
         },
         "name": "Quickgui",
         "url": "https://github.com/quickemu-project/quickgui",
@@ -632,7 +702,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 165",
-            "url": "https://latenightlinux.com/late-night-linux-episode-165/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-165/",
+            "date": "Mon, 21 Feb 2022"
         },
         "name": "Python Rich",
         "url": "https://github.com/Textualize/rich",
@@ -641,7 +712,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 165",
-            "url": "https://latenightlinux.com/late-night-linux-episode-165/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-165/",
+            "date": "Mon, 21 Feb 2022"
         },
         "name": "Sweethome 3D",
         "url": "https://www.sweethome3d.com/",
@@ -650,7 +722,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 165",
-            "url": "https://latenightlinux.com/late-night-linux-episode-165/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-165/",
+            "date": "Mon, 21 Feb 2022"
         },
         "name": "react-wordle",
         "url": "https://github.com/cwackerfuss/react-wordle",
@@ -659,7 +732,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 165",
-            "url": "https://latenightlinux.com/late-night-linux-episode-165/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-165/",
+            "date": "Mon, 21 Feb 2022"
         },
         "name": "wordle in under 50 lines of bash",
         "url": "https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513",
@@ -668,7 +742,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 165",
-            "url": "https://latenightlinux.com/late-night-linux-episode-165/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-165/",
+            "date": "Mon, 21 Feb 2022"
         },
         "name": "Bismuth",
         "url": "https://github.com/Bismuth-Forge/bismuth",
@@ -677,7 +752,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 165",
-            "url": "https://latenightlinux.com/late-night-linux-episode-165/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-165/",
+            "date": "Mon, 21 Feb 2022"
         },
         "name": "Kröhnkite",
         "url": "https://github.com/esjeon/krohnkite",
@@ -686,7 +762,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 165",
-            "url": "https://latenightlinux.com/late-night-linux-episode-165/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-165/",
+            "date": "Mon, 21 Feb 2022"
         },
         "name": "KWin-Tiling",
         "url": "https://github.com/kwin-scripts/kwin-tiling",
@@ -695,7 +772,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 165",
-            "url": "https://latenightlinux.com/late-night-linux-episode-165/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-165/",
+            "date": "Mon, 21 Feb 2022"
         },
         "name": "Mandelbulber2",
         "url": "https://github.com/buddhi1980/mandelbulber2",
@@ -704,7 +782,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 162",
-            "url": "https://latenightlinux.com/late-night-linux-episode-162/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-162/",
+            "date": "Tue, 01 Feb 2022"
         },
         "name": "Jq",
         "url": "https://stedolan.github.io/jq/",
@@ -713,7 +792,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 162",
-            "url": "https://latenightlinux.com/late-night-linux-episode-162/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-162/",
+            "date": "Tue, 01 Feb 2022"
         },
         "name": "Vital synth",
         "url": "https://vital.audio/",
@@ -722,7 +802,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 161",
-            "url": "https://latenightlinux.com/late-night-linux-episode-161/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-161/",
+            "date": "Mon, 24 Jan 2022"
         },
         "name": "HiFi Berry OS",
         "url": "https://www.hifiberry.com/hifiberryos/",
@@ -731,7 +812,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 161",
-            "url": "https://latenightlinux.com/late-night-linux-episode-161/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-161/",
+            "date": "Mon, 24 Jan 2022"
         },
         "name": "Ceefax lives!",
         "url": "https://www.nathanmediaservices.co.uk/teletext-viewer/",
@@ -740,7 +822,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 161",
-            "url": "https://latenightlinux.com/late-night-linux-episode-161/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-161/",
+            "date": "Mon, 24 Jan 2022"
         },
         "name": "NimBLE ESP32",
         "url": "https://github.com/h2zero/NimBLE-Arduino",
@@ -749,7 +832,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 161",
-            "url": "https://latenightlinux.com/late-night-linux-episode-161/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-161/",
+            "date": "Mon, 24 Jan 2022"
         },
         "name": "iPlayer probably runs on 32-bit Linux",
         "url": "https://www.theregister.com/2022/01/17/bbc_iplayer_expires_2038/",
@@ -758,7 +842,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 159",
-            "url": "https://latenightlinux.com/late-night-linux-episode-159/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-159/",
+            "date": "Mon, 10 Jan 2022"
         },
         "name": "Barrier",
         "url": "https://github.com/debauchee/barrier",
@@ -767,7 +852,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 159",
-            "url": "https://latenightlinux.com/late-night-linux-episode-159/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-159/",
+            "date": "Mon, 10 Jan 2022"
         },
         "name": "rdfind",
         "url": "https://github.com/pauldreik/rdfind",
@@ -776,7 +862,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 159",
-            "url": "https://latenightlinux.com/late-night-linux-episode-159/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-159/",
+            "date": "Mon, 10 Jan 2022"
         },
         "name": "A CPU implemented in a modular synthesizer",
         "url": "https://github.com/katef/eurorack-cpu",
@@ -785,7 +872,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 158",
-            "url": "https://latenightlinux.com/late-night-linux-episode-158/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-158/",
+            "date": "Tue, 04 Jan 2022"
         },
         "name": "ts",
         "url": "https://manpages.debian.org/testing/moreutils/ts.1.en.html",
@@ -794,7 +882,8 @@
     {
         "episode": {
             "name": "Late Night Linux – Episode 158",
-            "url": "https://latenightlinux.com/late-night-linux-episode-158/"
+            "url": "https://latenightlinux.com/late-night-linux-episode-158/",
+            "date": "Tue, 04 Jan 2022"
         },
         "name": "The Rockstar Language Specification",
         "url": "https://codewithrockstar.com/docs",

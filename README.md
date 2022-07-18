@@ -27,5 +27,5 @@ This is used to build episode pages
 
 ```
 cd _data
-cat discoveries.json | jq 'group_by(.episode.name) | map(.[0].episode) > episodes.json'
+cat discoveries.json | jq 'group_by(.episode.name) | map(.[0].episode)' > episodes.json
 ```

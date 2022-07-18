@@ -12,11 +12,11 @@ layout: "layouts/main.njk"
 <div class="episode_header">
     <a href="/">back</a>
     <h2>Episode {{ episode.name | ep_num }}</h2>
-    <a href="{{episode.url}}">🔊 Episode page</a>
+    <p>{{ episode.date }}<br><a href="{{episode.url}}">🔊 Episode page</a></p>
 </div>
 
 {% for discovery in discoveries %}
     {% if discovery.episode.name == episode.name %}
-        {{ item.item(discovery)}}
+        {{ item.item(discovery, date=false)}}
     {% endif %}
 {% endfor %}
